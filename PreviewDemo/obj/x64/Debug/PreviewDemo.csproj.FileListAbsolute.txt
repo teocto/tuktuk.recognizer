@@ -1,0 +1,39 @@
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.exe.config
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.exe.manifest
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.application
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.exe
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.pdb
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\NAudio.dll
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\System.Net.Http.dll
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\NAudio.xml
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\System.Net.Http.xml
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.csproj.AssemblyReference.cache
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.PreSet.resources
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.Preview.resources
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.csproj.GenerateResource.cache
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.csproj.CoreCompileInputs.cache
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.exe.manifest
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.application
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewD.9FC0648E.Up2Date
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.exe
+C:\Users\н\Downloads\EN-HCNetSDKV6.1.9.48_build20230410_win64\EN-HCNetSDKV6.1.9.48_build20230410_win64\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.pdb
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.exe.config
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.exe.manifest
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.application
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.exe
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\PreviewDemo.pdb
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\NAudio.dll
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\System.Net.Http.dll
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\NAudio.xml
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\bin\x64\Debug\System.Net.Http.xml
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.csproj.AssemblyReference.cache
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.PreSet.resources
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.Preview.resources
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.csproj.GenerateResource.cache
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.csproj.CoreCompileInputs.cache
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.exe.manifest
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.application
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewD.9FC0648E.Up2Date
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.exe
+C:\projects\recogn\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Debug\PreviewDemo.pdb

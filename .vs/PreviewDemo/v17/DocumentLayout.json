@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|c:\\projects\\recogn\\1-preview-previewdemo\\previewdemo\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|solutionrelative:previewdemo\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\previewdemo\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|solutionrelative:previewdemo\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\previewdemo\\chcnetsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|solutionrelative:previewdemo\\chcnetsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\previewdemo\\preset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|solutionrelative:previewdemo\\preset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\d36e61faa0c4df2722e9a0a7d24cb8bdfc8ed5d4f24b551a7a2d33ba4397f849\\Control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8675C184-4B32-44BF-BF8F-C18687CC9A4A}|ConsoleApp1\\ConsoleApp1.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8675C184-4B32-44BF-BF8F-C18687CC9A4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\previewdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|solutionrelative:previewdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PreviewDemo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\previewdemo\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668D631E-1765-4377-B87C-0E1DA15AF44D}|PreviewDemo\\PreviewDemo.csproj|solutionrelative:previewdemo\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\dadd9a26afed34cca34b887697fefb30f88e0183dcee736285eb34bacc65871d\\SpxExceptionThrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8675C184-4B32-44BF-BF8F-C18687CC9A4A}|ConsoleApp1\\ConsoleApp1.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8675C184-4B32-44BF-BF8F-C18687CC9A4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8675C184-4B32-44BF-BF8F-C18687CC9A4A}|ConsoleApp1\\ConsoleApp1.csproj|C:\\projects\\recogn\\1-Preview-PreviewDemo\\consoleapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8675C184-4B32-44BF-BF8F-C18687CC9A4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Preview.cs",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\Preview.cs",
+              "RelativeDocumentMoniker": "PreviewDemo\\Preview.cs",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\Preview.cs",
+              "RelativeToolTip": "PreviewDemo\\Preview.cs",
+              "ViewState": "AQIAAIYCAAAAAAAAAAAAAJQCAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:04:50.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpxExceptionThrower.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\dadd9a26afed34cca34b887697fefb30f88e0183dcee736285eb34bacc65871d\\SpxExceptionThrower.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\dadd9a26afed34cca34b887697fefb30f88e0183dcee736285eb34bacc65871d\\SpxExceptionThrower.cs",
+              "ToolTip": "C:\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\dadd9a26afed34cca34b887697fefb30f88e0183dcee736285eb34bacc65871d\\SpxExceptionThrower.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\dadd9a26afed34cca34b887697fefb30f88e0183dcee736285eb34bacc65871d\\SpxExceptionThrower.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:19:28.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\d36e61faa0c4df2722e9a0a7d24cb8bdfc8ed5d4f24b551a7a2d33ba4397f849\\Control.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\d36e61faa0c4df2722e9a0a7d24cb8bdfc8ed5d4f24b551a7a2d33ba4397f849\\Control.cs",
+              "ToolTip": "C:\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\d36e61faa0c4df2722e9a0a7d24cb8bdfc8ed5d4f24b551a7a2d33ba4397f849\\Control.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\d36e61faa0c4df2722e9a0a7d24cb8bdfc8ed5d4f24b551a7a2d33ba4397f849\\Control.cs [Read Only]",
+              "ViewState": "AQIAAI4qAAAAAAAAAAAkwJQqAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:03:57.991Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PreSet.cs [Design]",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\PreSet.cs",
+              "RelativeDocumentMoniker": "PreviewDemo\\PreSet.cs",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\PreSet.cs [Design]",
+              "RelativeToolTip": "PreviewDemo\\PreSet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:43:25.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CHCNetSDK.cs",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\CHCNetSDK.cs",
+              "RelativeDocumentMoniker": "PreviewDemo\\CHCNetSDK.cs",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\CHCNetSDK.cs",
+              "RelativeToolTip": "PreviewDemo\\CHCNetSDK.cs",
+              "ViewState": "AQIAAEg8AAAAAAAAAAAqwFA8AAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:28:57.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Preview.cs [Design]",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\Preview.cs",
+              "RelativeDocumentMoniker": "PreviewDemo\\Preview.cs",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\Preview.cs [Design]",
+              "RelativeToolTip": "PreviewDemo\\Preview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:00:07.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAkBAADgzMzMzMwnwAsBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:56:04.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "PreviewDemo\\Settings.Designer.cs",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\Settings.Designer.cs",
+              "RelativeToolTip": "PreviewDemo\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:06:42.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-21T18:53:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\app.config",
+              "RelativeDocumentMoniker": "PreviewDemo\\app.config",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\app.config",
+              "RelativeToolTip": "PreviewDemo\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-24T13:39:52.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PreviewDemo",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\PreviewDemo.csproj",
+              "RelativeDocumentMoniker": "PreviewDemo\\PreviewDemo.csproj",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\PreviewDemo\\PreviewDemo.csproj",
+              "RelativeToolTip": "PreviewDemo\\PreviewDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-20T14:51:06.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "ConsoleApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-20T15:26:11.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\projects\\recogn\\1-Preview-PreviewDemo\\ConsoleApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:26:06.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
